@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stock Explorer</string>
+    <string name="main_screen">Main screen</string>
+    <string name="main_welcome">Welcome</string>
+    <string name="main_pick_bank">Please pick a bank to explor recent data</string>
+    <string name="error_message">An error occurred</string>
+    <string name="last_refresh">Last Refreshed:</string>
+    <string name="open">open:</string>
+</resources>
